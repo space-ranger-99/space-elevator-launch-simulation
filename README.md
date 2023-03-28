@@ -1,4 +1,4 @@
-# Space Elevator Launch Simulation
+# 🚀 Space Elevator Launch Simulation
 This project simulates the post-launch dynamics of a spacecraft launched from a space elevator. The script demonstrates the dynamics for various initial altitude offsets from geostationary orbit, imitating the launch from a simplified space elevator.
 
 ## Installation
