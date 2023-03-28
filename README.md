@@ -16,7 +16,8 @@ space_elevator_launch_simulation
 ## Function Overview
 The script consists of the following main functions:
 - `init_params`: Initializes the system parameters.
-- `solve_dynamics`: Calculates the launch dynamics based on the gravitational parameter and geostationary orbit rotation rate.
+- `solve_dynamics`: Solves the launch dynamics using the `ode45` solver.
+- `spacecraft_launch_dynamics`: Calculates the launch dynamics based on the gravitational parameter and geostationary orbit rotation rate.
 - `plot_results`: Plots the simulation results.
 
 ## Author
