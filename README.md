@@ -1,5 +1,7 @@
 # 🚀 Space Elevator Launch Simulation
-This project simulates the post-launch dynamics of a spacecraft launched from a space elevator. The script demonstrates the dynamics for various initial altitude offsets from geostationary orbit, imitating the launch from a simplified space elevator.
+This project is a course project that simulates the post-launch dynamics of a spacecraft launched from a simplified space elevator model. The script demonstrates the dynamics for various initial altitude offsets from geostationary orbit, aiming to provide a basic understanding of the spacecraft's behaviour under such conditions.
+
+The purpose of this project is to explore the concept of space elevators as an alternative method for launching spacecraft and to gain preliminary insights into the potential challenges and opportunities associated with this approach. As a course project, this simulation serves as a starting point for further research and investigation, and it is not intended to be a comprehensive study or an industry-standard solution.
 
 ## Installation
 To use this script, you will need MATLAB installed on your system. You can download and install MATLAB from the official website.
