@@ -22,6 +22,7 @@ The script consists of the following main functions:
 
 ## Author
 **Alexander Little**
-
-## Affiliation
-**Toronto Metropolitan University**
+- 🏫 Toronto Metropolitan University
+- 📧 corbyn.little@torontomu.ca
+- 💼 [LinkedIn](https://www.linkedin.com/in/aclittle/)
+- 📚 [GitHub](https://github.com/space-ranger-99)
