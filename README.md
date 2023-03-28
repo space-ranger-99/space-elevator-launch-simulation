@@ -12,7 +12,6 @@ To use this script, you will need MATLAB installed on your system. You can downl
 space_elevator_launch_simulation
 ```
 ![Launch Results](space_elevator_launch_simulation_results.png)
-This will run the simulation and generate a plot of the altitude and velocity of the spacecraft over time.
 
 ## Function Overview
 The script consists of the following main functions:
